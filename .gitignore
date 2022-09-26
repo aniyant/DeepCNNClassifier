@@ -143,3 +143,5 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-24-11-00-35/v
 mlruns/*
 research/mlflow_dir/mlruns/*
 prediction_service/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-26-19-11-20/train/events.out.tfevents.1664199712.ANIYANTA.5492.0.v2
+artifacts/prepare_callbacks/
