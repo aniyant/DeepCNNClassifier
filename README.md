@@ -21,12 +21,15 @@ This is deep learning project where CNN model is build to classify images.
 
 STEP 1: Set the env variable | Get it from dagshub -> remote tab -> mlflow tab
 
-MLFLOW_TRACKING_URI=https://dagshub.com/c17hawke/FSDS_NOV_deepCNNClassifier.mlflow \
-MLFLOW_TRACKING_USERNAME=c17hawke \
-MLFLOW_TRACKING_PASSWORD=<> \
+MLFLOW_TRACKING_URI=https://dagshub.com/kumarsunny30066/DeepCNNClassifier.mlflow \
+MLFLOW_TRACKING_USERNAME=kumarsunny30066 \
+MLFLOW_TRACKING_PASSWORD=a79f1b0d67e5365a47d58ceb8de8e444b0331ac6 \
+python script.py
 
 STEP 2: install mlflow
 
 STEP 3: Set remote URI
 
-STEP 4: Use context manager of mlflow to start run and then log metrics, params and model
+STEP 4: Use context manager of mlflow to start run and then log metrics, params and 
+
+
